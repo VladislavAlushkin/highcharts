@@ -7,7 +7,7 @@
  * License: www.highcharts.com/license
  */
 'use strict';
-import Highcharts from './highcharts.src.js';
+import Highcharts from './custom.src.js';
 import './modules/map.src.js';
 
 (Highcharts as any).product = 'Highmaps';
