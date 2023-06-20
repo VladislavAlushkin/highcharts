@@ -32,7 +32,7 @@ import DataLabel from '../Core/Series/DataLabel.js';
 import '../Extensions/BorderRadius.js';
 import Responsive from '../Core/Responsive.js';
 import Color from '../Core/Color/Color.js';
-import Templating from "../Core/Templating";
+import Templating from '../Core/Templating.js';
 const G: AnyRecord = Highcharts;
 // Animation
 G.animate = Animation.animate;
